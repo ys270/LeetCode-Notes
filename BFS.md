@@ -1,6 +1,6 @@
 ## BFS
 
-1091. Shortest Path in Binary Matrix
+##### 1091. Shortest Path in Binary Matrix
 
 In an N by N square grid, each cell is either empty (0) or blocked (1).
 
@@ -73,7 +73,7 @@ public:
 };
 ```
 
-279. Perfect Squares
+##### 279. Perfect Squares
 
 Given a positive integer *n*, find the least number of perfect square numbers (for example, `1, 4, 9, 16, ...`) which sum to *n*.
 
@@ -129,7 +129,7 @@ public:
 };
 ```
 
-127. Word Ladder<font color = red> (time limit exceed)</font>
+##### 127. Word Ladder<font color = red> (time limit exceed)</font>
 
 Given two words (*beginWord* and *endWord*), and a dictionary's word list, find the length of shortest transformation sequence from *beginWord* to *endWord*, such that:
 
